@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Задача 3");
         String fullName2 = "Иванов Семён Семёнович";
         String fullName3 = fullName2.replace("Иванов Семён Семёнович", "Иванов Семен Семенович");
-        System.out.println("Данные Ф. И. О. сотрудника —" +  fullName3);
+        System.out.println("Данные Ф. И. О. сотрудника —" +   fullName3);
 
 
 
